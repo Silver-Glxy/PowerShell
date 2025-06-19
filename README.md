@@ -1,16 +1,4 @@
 <body>
-	<div id="container">
-		<header>
-			<img src="images/headerbild.jpg" width="1080" height="300" alt="Erdmännchen">
-		</header>
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-    			<li><a href="#">Seite 2</a></li>
-    			<li><a href="#">Seite 3</a></li>
-    		</ul>
-		</nav>
-		<main>
 			<h1>Ich bin eine h1-Überschrift</h1>
 			<h2>Blindtext mit ca. 150 Wörtern (h2)</h2>
 			
@@ -27,6 +15,4 @@
 		<footer>
 			<p>Text im Footer</p>
 		</footer>
-	</div>
 </body>
-</html>
