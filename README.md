@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="erweitertes_geruest/css/screen.css">
-<h1>Ich bin eine h1-Überschrift</h1>
+<h1>PowerShell CheatSheet</h1>
 <h2>Blindtext mit ca. 150 Wörtern (h2)</h2>
 
-<p>Überall dieselbe alte Leier. Das Layout ist fertig, der Text lässt auf sich warten. Damit das Layout nun nicht nackt im Raume steht und sich klein und leer vorkommt, springe ich ein: der Blindtext.</p>
+<p>Coming soon - stay tuned :)</p>
 
 <p>Genau zu diesem Zwecke erschaffen, immer im Schatten meines großen Bruders »Lorem Ipsum«, freue ich mich jedes Mal, wenn Sie ein paar Zeilen lesen. Denn esse est percipi - Sein ist wahrgenommen werden.<br>
 Und weil Sie nun schon die Güte haben, mich ein paar weitere Sätze lang zu begleiten, möchte ich diese Gelegenheit nutzen, Ihnen nicht nur als Lückenfüller zu dienen, sondern auf etwas hinzuweisen, das es ebenso verdient wahrgenommen zu werden: Webstandards nämlich.</p>
